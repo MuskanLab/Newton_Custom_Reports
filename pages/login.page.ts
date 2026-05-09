@@ -103,4 +103,4 @@ export class LoginPage {
       await this.page.waitForTimeout(2000);
     });
   }
-}
+} //New change in login page
