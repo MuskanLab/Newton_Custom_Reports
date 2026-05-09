@@ -1,0 +1,10 @@
+node_modules/
+dist/
+allure-results/
+allure-report/
+test-results/
+playwright-report/
+test-data/*.zip
+test-data/*.csv
+auth/
+*.env.local
