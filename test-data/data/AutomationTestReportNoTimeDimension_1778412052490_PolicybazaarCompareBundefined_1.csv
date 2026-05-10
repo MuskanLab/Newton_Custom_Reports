@@ -1,0 +1,12 @@
+Report Name,Automation Test Report - NoTimeDimension
+Apps,Policybazaar-Compare.Buy.Save.
+Preset/Template,apps
+Date Range,2026-01-01 - 2026-01-30 
+Time Zone,UTC
+Currency,USD
+Time Period,Range
+
+
+
+Date,App ID,App Name,Impressions,Taps,Downloads ( Tap-Through),Downloads ( View-Through),Downloads ( Total ),CR ( Tap-Through),CR ( Total ),TTR,New Downloads ( Tap-Through),New Downloads ( View-Through ),New Downloads ( Total ),Redownloads ( Tap-Through),Redownloads ( View-Through ),Redownloads ( Total ),Cost,CPT,CPM,CPD ( Tap-Through),CPD ( Total ),Avg Daily Cost,Spend,SPD,Goal,Goal%,Cost per goal,Install,Install%,Spends Per Goal,Revenue,ROAS,ARPU
+"2026-01-01 - 2026-01-30","956740142","Policybazaar-Compare.Buy.Save.","933411","34697","21934","12751","34685","63.22%","99.97%","3.72%","15818","8617","24435","6116","4134","10250","$18014.98","$0.52","$19.30","$0.82","$0.52","$27.30","$19005.81","$0.87","4082","411.49%","$4.41","992","4.52%","$4.66","$0.00","0","0"
